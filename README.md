@@ -4,9 +4,8 @@ time while improving accuracy at the same time. This code aims at reproducing th
 ### Results
 
 | n | 0 (all features) | 1 | 2 | 3 | 4 |
-| :---: | :---: | :---: | | :---: | :---: | :---: |
+|---|------------------|---|---|---|---|
 | Features | 324 | 78 | 20 | 5 | 2 |
-| :---: | :---: | :---: | | :---: | :---: | :---: |
 | Accuracy (%) | 68.31 | 72.34 | 79.95 | 80.45 | 80.45 |
 
 ![ECH accuracy gain](outputs/ECH_accuracy_gain_example.png)
